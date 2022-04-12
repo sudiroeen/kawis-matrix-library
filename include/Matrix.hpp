@@ -1,7 +1,7 @@
 /*
 	Copyright:
-				Sudiro
-						[at] SudiroEEN@gmail.com
+		Sudiro
+			[at] SudiroEEN@gmail.com
 
 */
 #pragma once
